@@ -22,39 +22,16 @@
     <div class="row about-wrapper">
       <div class="col-md-6 col-sm-12">
         <div class="about-wrapper__image load-hidden">
-          <img
-            alt="Profile Image"
-            class="img-fluid rounded shadow-lg"
-            height="auto"
-            width="300px"
-            src="assets/profile.jpg"
-            alt="Profile Image"
-          />
         </div>
       </div>
       <div class="col-md-6 col-sm-12">
         <div class="about-wrapper__info load-hidden">
           <p class="about-wrapper__info-text">
-            This is where you can describe about yourself. The more you describe
-            about yourself, the more chances you can!
+            I'm a developer at Kidocode.
           </p>
           <p class="about-wrapper__info-text">
-            Extra Information about you! like hobbies and your goals.
+            I like to play games.
           </p>
-          <span class="d-flex mt-3">
-            <a
-              rel="noreferrer"
-              target="_blank"
-              class="cta-btn cta-btn--resume"
-              href="assets/resume.pdf"
-            >
-              View Resume
-            </a>
-          </span>
-        </div>
-      </div>
-    </div>
-  </div>
 </section>
 <!-- /END About Section -->
 
@@ -74,65 +51,7 @@
             voluptate ex architecto itaque molestiae.
           </p>
         </div>
-        <a
-          rel="noreferrer"
-          target="_blank"
-          class="cta-btn cta-btn--hero"
-          href="#!"
-        >
-          See Live
-        </a>
-        <a
-          rel="noreferrer"
-          target="_blank"
-          class="cta-btn text-color-main"
-          href="#!"
-        >
-          Source Code
-        </a>
-      </div>
-    </div>
-    <div class="col-lg-8 col-sm-12">
-      <div class="project-wrapper__image load-hidden">
-        <a rel="noreferrer" href="#!" target="_blank">
-          <div
-            data-tilt
-            data-tilt-max="4"
-            data-tilt-glare="true"
-            data-tilt-max-glare="0.5"
-            class="thumbnail rounded js-tilt"
-          >
-            <img
-              alt="Project Image"
-              class="img-fluid"
-              src="assets/project.jpg"
-            />
-          </div>
-        </a>
-      </div>
-    </div>
   </div>
-
-  <!-- **** Contact Section **** -->
-<section id="contact">
-  <div class="container">
-    <h2 class="section-title">Contact</h2>
-    <div class="contact-wrapper load-hidden">
-      <p class="contact-wrapper__text">[Put your call to action here]</p>
-      <a
-        rel="noreferrer"
-        target="_blank"
-        class="cta-btn cta-btn--resume"
-        href="mailto:example@email.com"
-        >Call to Action</a
-      >
-    </div>
-  </div>
-</section>
-<!-- /END Contact Section -->
-  <!-- /END Project -->
-  ...
-</section>
 
 <footer class="footer navbar-static-bottom">
   ...
